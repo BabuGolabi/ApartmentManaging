@@ -1,4 +1,4 @@
-# ApartmentManaging
+# Apartment Managing
 * Path of Python Code: code/code.py
 * code.py should be beside init.csv
 
